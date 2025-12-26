@@ -1,7 +1,7 @@
 # 🚀 Full Stack Event Polling Application (MERN)
 
-  - **Live Frontend:** 🔗 [https://your-frontend-live-link.com](https://eventman-alpha.vercel.app/)
-  - **Live Backend API:** 🔗 [https://your-backend-live-link.com](https://eventpollapi.onrender.com)
+  - **Live Frontend:** 🔗 [https://eventman-alpha.vercel.app/](https://eventman-alpha.vercel.app/)
+  - **Live Backend API:** 🔗 [https://eventpollapi.onrender.com](https://eventpollapi.onrender.com)
  - **MongoDB Atlas:** ☁️ Cloud-hosted database (details below)
 
 ---
@@ -48,9 +48,9 @@ Both are deployed independently and communicate via REST APIs.
 
 | Service          | URL                                                                                            |
 | ---------------- | ---------------------------------------------------------------------------------------------- |
-| Frontend         | [https://your-frontend-live-link.com](https://eventman-alpha.vercel.app/)                     |
-| Backend API      | [https://your-backend-live-link.com](https://eventpollapi.onrender.com)                       |
-| API Health Check | [https://your-backend-live-link.com/api/health](https://eventpollapi.onrender.com/api/health) |
+| Frontend         | [https://eventman-alpha.vercel.app/](https://eventman-alpha.vercel.app/)                     |
+| Backend API      | [https://eventpollapi.onrender.com](https://eventpollapi.onrender.com)                       |
+| API Health Check | [https://eventpollapi.onrender.com/api/health](https://eventpollapi.onrender.com/api/health) |
 
 
 
@@ -303,6 +303,7 @@ If you find this project useful, give it a ⭐ on GitHub!
 ---
 
 > 📌 This README is production-ready and suitable for recruiters, clients, and deployment documentation.
+
 
 
 
